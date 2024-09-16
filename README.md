@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayn74&label=Profile%20views&color=0e75b6&style=flat" alt="zayn74" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zayn74" alt="zayn74" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://papaya-cobbler-9fbb6b.netlify.app/](https://papaya-cobbler-9fbb6b.netlify.app/)
 
 - 💬 Ask me about **React**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mo_zayn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mo_zayn7" height="30" width="40" /></a>
+<a href="https://twitter.com/mo_zayn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_zayn7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafa helmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa helmi" height="30" width="40" /></a>
 <a href="https://instagram.com/zayn747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zayn747" height="30" width="40" /></a>
 </p>
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayn74&show_icons=true&locale=en&layout=compact" alt="zayn74" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayn74&show_icons=true&locale=en" alt="zayn74" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayn74&" alt="zayn74" /></p>
